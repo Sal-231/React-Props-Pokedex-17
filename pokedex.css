@@ -13,15 +13,18 @@ h1, .container{
     border: 2px solid black;
     border-radius: 25px;
 }
+ul{
+    padding: 0px;
+}
 .container{
     /* padding: 5px;
     gap: 5px; */
-    justify-content: center;
+    
 }
 .pokedex{
     display: grid;
     grid-template-columns: repeat(4, 175px);
-    
+    padding: 0px;
     gap: 10px;
 }
 
