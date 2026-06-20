@@ -16,9 +16,8 @@ h1, .container{
 ul{
     padding: 0px;
 }
-.container{
-    /* padding: 5px;
-    gap: 5px; */
+.container:hover img{
+    transform: scale(1.5);
     
 }
 .pokedex{
@@ -27,9 +26,3 @@ ul{
     padding: 0px;
     gap: 10px;
 }
-
-
-
-/* section:hover{
-    
-} */
