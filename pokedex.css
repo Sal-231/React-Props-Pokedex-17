@@ -7,18 +7,13 @@ body{
     font-family: sans-serif;
 }
 
-h1{
+h1, .container{
     text-align: center;
-    background-color: lightgrey;
-}
-
-.container{
-
     background-color: lightgrey;
     border: 2px solid black;
     border-radius: 25px;
-    text-align: center;
-
+}
+.container{
     padding: 5px;
     gap: 5px;
 }
