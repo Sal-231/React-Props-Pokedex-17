@@ -14,12 +14,14 @@ h1, .container{
     border-radius: 25px;
 }
 .container{
-    padding: 5px;
-    gap: 5px;
+    /* padding: 5px;
+    gap: 5px; */
+    justify-content: center;
 }
 .pokedex{
     display: grid;
     grid-template-columns: repeat(4, 175px);
+    
     gap: 10px;
 }
 

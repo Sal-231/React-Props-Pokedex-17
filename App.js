@@ -14,4 +14,4 @@ function App(){
     return <Pokedex pokemon={pokemon}></Pokedex>;
 }
 
-ReactDOM.render(<App/>, document.getElementById("root")); 
+ReactDOM.render(<App/>, document.getElementById("root"));
